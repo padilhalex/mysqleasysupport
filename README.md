@@ -1,5 +1,7 @@
 # MySQL EasySupport
 
+![MySQL EasySupport](mysqleasysupport.png)
+
 `MySQL-EasySupport.bat` é um script em lote para Windows desenvolvido com o objetivo de facilitar a coleta de informações e suporte técnico em servidores MySQL e MariaDB. Ele automatiza tarefas comuns de diagnóstico e coleta de dados, reduzindo o tempo necessário para suporte e análise de problemas.
 
 ## Funcionalidades
