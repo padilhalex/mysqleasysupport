@@ -34,7 +34,7 @@
 @echo off
 color 0e
 set USUARIO=dump
-set MYSQL_PWD=LRMTpHbMbMhUufV2LGUm
+set MYSQL_PWD=123456
 set HOST=%1
 set PORTA=%2
 set PATHBIN=%3
